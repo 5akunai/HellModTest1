@@ -1,0 +1,3 @@
+displayName = HellItems
+author = Sakunai
+version = 0.1
