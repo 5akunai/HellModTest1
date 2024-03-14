@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3jobCuyQeKRwTfk5LOUZXZGbkHEumLyBkBvmg7ys7ofSWyHXc21ThhI/4Vp61BlhKnYuLFOvNwK1Am5i27WySQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\urisv\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\RiptideMod\\RiptideMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\urisv\\.nuget\\packages\\tmodloader.codeassist\\0.1.4\\tmodloader.codeassist.0.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
